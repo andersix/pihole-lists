@@ -1,6 +1,6 @@
 # De-monitize TikTok
 #
-# Fetch the latest version of this file: 
+# Fetch the latest version of this file: https://raw.githubusercontent.com/andersix/pihole-lists/master/tiktok.txt
 # Project home page: https://github.com/andersix/pihole-lists
 # ===============================================================
 
