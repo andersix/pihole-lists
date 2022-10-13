@@ -1,2 +1,2 @@
 # pihole-lists
-Various custom lists I use for Pi-hole
+Various custom ad/block lists I use for Pi-hole
