@@ -32,11 +32,9 @@ share.musemuse.cn
 # ===============================================================
 
 (^|\.)muscdn\.com$
-
 (^|\.)musical\.ly$
-
 (^|\.)tiktok\.com$
-
 (^|\.)tiktok\.org$
-
 (^|\.)tiktokcdn\.com$
+(^|\.)tiktokv\.com$
+(^|\.)tiktokcdn-us\.com$
