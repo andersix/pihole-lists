@@ -1,0 +1,35 @@
+# Regex list to block tiktok traffic on your network
+# Copy and paste everything below this line into the "RegEx filter" tab on the Pihole dashboard blacklist management page.
+
+(\.|^)bytecdn\.cn$
+(\.|^)bytedance\.com$
+(\.|^)bytedance\.net$
+(\.|^)bytedns\.net$
+(\.|^)byteicdn\.com$
+(\.|^)byteimg\.com$
+(\.|^)byteoversea\.com$
+(\.|^)byteoversea\.net$
+(\.|^)bytetcdn\.com$
+(\.|^)hypstarcdn\.com$
+(\.|^)ibytedtos\.com$
+(\.|^)ibyteimg\.com$
+(\.|^)ipstatp\.com$
+(\.|^)isnssdk\.com$
+(\.|^)muscdn\.com$
+(\.|^)musemuse\.cn$
+(\.|^)musical\.ly$
+(\.|^)pstatp\.com$
+(\.|^)sgpstatp\.com$
+(\.|^)sgsnssdk\.com$
+(\.|^)snssdk\.com$
+(\.|^)tiktok\.com$
+(\.|^)tiktokd.org$
+(\.|^)tiktokcdn\.com$
+(\.|^)tiktokv\.com$
+(\.|^)tlivecdn.com$
+(\.|^)ttlivecdn.com$
+(\.|^)ttoversea.net$
+(\.|^)ttoverseaus.net$
+(\.|^)toutiao\.com$
+(\.|^)worldfcdn\.com$
+(\.|^)wsdvs\.com$
